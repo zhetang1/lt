@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Welcome to Leo's World</h1>
+        <h1>✨ Welcome to Leo's World 🌟</h1>
       </header>
       
       <main className="main-content">
@@ -29,7 +29,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p> 2024 • Built with passion</p>
+        <p> 🏒 2024 • Built with passion ❤️</p>
       </footer>
     </div>
   );
